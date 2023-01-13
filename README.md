@@ -10,12 +10,14 @@ Sandbox
 - [HybridAnalysis](https://www.hybrid-analysis.com/)
 - [Cuckoo](https://sandbox.pikker.ee/)
 
-IP Reputation
+IP Reputation and Geoip location
 - [AbuseIPDB](https://www.abuseipdb.com/) 
+- [IpInfo](https://ipinfo.io/)
 - [Talos Intelligence](https://talosintelligence.com/)
 
 Network Tools
-- [DNSRecord](https://viewdns.info/dnsrecord/) 
+- [DNSRecord](https://viewdns.info/dnsrecord/)
+- [DIGWeb](https://www.digwebinterface.com/)
 
 Hash Search
 - [Virus Total](https://www.virustotal.com/)
