@@ -14,6 +14,7 @@ IP Reputation and Geoip location
 - [AbuseIPDB](https://www.abuseipdb.com/) 
 - [IpInfo](https://ipinfo.io/)
 - [Talos Intelligence](https://talosintelligence.com/)
+- [Shodan] (https://www.shodan.io)
 
 Network Tools
 - [DNSRecord](https://viewdns.info/dnsrecord/)
