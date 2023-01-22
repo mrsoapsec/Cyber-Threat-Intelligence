@@ -19,8 +19,8 @@ IP Reputation and Geoip location
 Network Tools
 - [DNSRecord](https://viewdns.info/dnsrecord/)
 - [DIGWeb](https://www.digwebinterface.com/)
-- [ViewDns](https://viewdns.info/
-- [Pcap Analisys] (https://packettotal.com/)
+- [ViewDns](https://viewdns.info/)
+- [Pcap Analisys](https://packettotal.com/)
 
 Hash Search
 - [Virus Total](https://www.virustotal.com/)
