@@ -9,6 +9,7 @@ Sandbox
 - [AlienVault](https://otx.alienvault.com/browse/global/pulses?include_inactive=0&sort=-modified&page=1)
 - [HybridAnalysis](https://www.hybrid-analysis.com/)
 - [Cuckoo](https://sandbox.pikker.ee/)
+- [UrlScan](https://urlscan.io/)
 
 IP Reputation and Geoip location
 - [AbuseIPDB](https://www.abuseipdb.com/) 
