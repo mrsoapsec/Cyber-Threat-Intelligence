@@ -20,7 +20,6 @@ IP Reputation and Geoip location
 - [Shodan](https://www.shodan.io)
 
 Network Tools
-- [DNSRecord](https://viewdns.info/dnsrecord/)
 - [DIGWeb](https://www.digwebinterface.com/)
 - [ViewDns](https://viewdns.info/)
 - [DnsDumpster](https://dnsdumpster.com/)
