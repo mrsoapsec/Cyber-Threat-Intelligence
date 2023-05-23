@@ -16,6 +16,7 @@ Sandbox
 IP Reputation and Geoip location
 - [AbuseIPDB](https://www.abuseipdb.com/) 
 - [IpInfo](https://ipinfo.io/)
+- [MyIp](https://myip.ms/)
 - [Talos Intelligence](https://talosintelligence.com/)
 - [Shodan](https://www.shodan.io)
 
@@ -23,7 +24,6 @@ Network Tools
 - [DIGWeb](https://www.digwebinterface.com/)
 - [ViewDns](https://viewdns.info/)
 - [DnsDumpster](https://dnsdumpster.com/)
-- [IpInfo](https://myip.ms/)
 - [Pcap Analysis](https://apackets.com)
 
 
