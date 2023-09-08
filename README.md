@@ -12,7 +12,7 @@ Sandbox
 - [Cuckoo](https://sandbox.pikker.ee/)
 - [UrlScan](https://urlscan.io/)
 - [Joe Sandbox](https://www.joesandbox.com)
-- [browser test ](https://www.browserling.com/)
+- [Browser test ](https://www.browserling.com/)
 
 IP Reputation and Geoip location
 - [AbuseIPDB](https://www.abuseipdb.com/) 
