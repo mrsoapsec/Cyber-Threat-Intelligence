@@ -1,4 +1,4 @@
-# Threat-Intel
+# Cyber-Threat-Intelligence
 
 #### <a name="domain-ip"></a>Repositório com Links de Threat Intel
 
