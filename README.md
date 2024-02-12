@@ -1,4 +1,4 @@
-# Cyber Threat Intelligence
+# Cyber Threat Intelligence 🔎
 * [CTI Platforms](#threat-intel)
 * [Threat Hunting](#threat-hunting)
 * [Osint](#Osint)
