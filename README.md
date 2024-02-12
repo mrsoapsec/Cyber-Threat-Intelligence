@@ -26,6 +26,7 @@
 ## Threat Hunting
 
 - Apt Threat Actors - https://apt.etda.or.th/cgi-bin/aptgroups.cgi
+- Any Run - https://intelligence.any.run/
 - Malpedia - https://malpedia.caad.fkie.fraunhofer.de/
 - Open Hunting - https://openhunting.io/
 - https://www.socinvestigation.com/threat-hunting-playbooks-for-mitre-tactics/
