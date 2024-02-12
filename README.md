@@ -1,4 +1,4 @@
-# Cyber Threat Intelligence 🔎
+# 🔎 Cyber Threat Intelligence 
 * [CTI Platforms](#threat-intel)
 * [Threat Hunting](#threat-hunting)
 * [Osint](#Osint)
@@ -11,7 +11,7 @@
 * [DFIR](#dfir)
 * [Technical Tools](#technical-tools)
 
-## CTI Platforms (Feeds) :books:
+## CTI Platforms (Feeds) 
 
 - Kaspersky - https://securelist.com/
 - Palo Alto | Unit42 - https://unit42.paloaltonetworks.com/
