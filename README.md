@@ -11,7 +11,7 @@
 * [DFIR](#dfir)
 * [Technical Tools](#technical-tools)
 
-## CTI Platforms (Feeds)
+## CTI Platforms (Feeds) :books:
 
 - Kaspersky - https://securelist.com/
 - Palo Alto | Unit42 - https://unit42.paloaltonetworks.com/
