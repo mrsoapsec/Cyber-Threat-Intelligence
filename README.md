@@ -59,6 +59,9 @@
 
 - https://github.com/crocodyli/malware-colection
 - https://vx-underground.org/
+- https://malpedia.caad.fkie.fraunhofer.de/
+- https://bazaar.abuse.ch/browse/
+  
 
 ## VPS
 
