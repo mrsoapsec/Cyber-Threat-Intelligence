@@ -34,6 +34,7 @@
 
 ## OSINT
 
+- Favicons - https://github.com/yoryio/ShodanFavicon
 - Fofa - https://en.fofa.info/
 - Netlas - https://netlas.io/
 - Osint Tools - https://start.me/p/0Pqbdg/osint-500-tools
