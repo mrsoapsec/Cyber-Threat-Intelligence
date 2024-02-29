@@ -124,7 +124,7 @@ Network Tools
 
 Cyber Tools
  - PilotEdit - Leitura de grandes arquivos para Threat Hunting
- - LightShot - Software de printscreen com varios recursos
+ - LightShot | Flameshot - Software de printscreen com varios recursos
  - Draw.io - Desenho de Topologias / Arquitetura
  - Maltego - Hunting
  - Visual Studio Code + Python
