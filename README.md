@@ -91,6 +91,8 @@
 ## Technical Tools
 
 Sandbox
+
+- [LocaBrowser](https://www.locabrowser.com/)
 - [Triage](https://tria.ge/)
 - [AnyRun](https://any.run/)
 - [HybridAnalysis](https://www.hybrid-analysis.com/)
