@@ -108,6 +108,7 @@ IP Reputation and Geoip location
 - [IpInfo](https://ipinfo.io/)
 - [ThreatCrowd](https://ci-www.threatcrowd.org/)
 - [WebCheck](https://web-check.as93.net/)
+- [Web Tech Scan](https://sitereport.netcraft.com/)
 - [MyIp](https://myip.ms/)
 - [Talos Intelligence](https://talosintelligence.com/)
 - [Shodan](https://www.shodan.io)
