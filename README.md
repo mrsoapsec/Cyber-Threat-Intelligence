@@ -133,6 +133,7 @@ Cyber Tools
  - Draw.io - Desenho de Topologias / Arquitetura
  - Maltego - Hunting
  - Visual Studio Code + Python
+ - Network Miner - Extrai artefatos de um arquivo pcap
 
 
  
