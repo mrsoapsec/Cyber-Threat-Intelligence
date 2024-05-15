@@ -9,7 +9,7 @@
 * [Git Repository](#git-repository)
 * [Cyber Map](#cyber-map)
 * [DFIR](#dfir)
-* [Technical Tools](#technical-tools)
+* [Cyber Tools](#technical-tools)
 
 ## CTI Platforms (Feeds) 
 
@@ -88,7 +88,7 @@
 
 - https://www.jaiminton.com/cheatsheet/DFIR/
 
-## Technical Tools
+## Cyber Tools
 
 Sandbox
 
