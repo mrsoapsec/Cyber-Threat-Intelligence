@@ -110,7 +110,7 @@ IP Reputation and Geoip location
 - [WebCheck](https://web-check.as93.net/)
 - [Web Tech Scan](https://sitereport.netcraft.com/)
 - [MyIp](https://myip.ms/)
-- [Talos Intelligence](https://talosintelligence.com/)
+- [Talos Intelligence](https://talosintelligence.com/reputation_center)
 - [Shodan](https://www.shodan.io)
 
 
