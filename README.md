@@ -103,6 +103,8 @@ Sandbox
 - [LocaBrowser](https://www.locabrowser.com/)
 - [UrlScan](https://urlscan.io/)
 
+Web Check
+- [Web Check Domain](https://web-check.xyz/)
 Email Analysis
  - [Header Analysis](https://toolbox.googleapps.com/apps/messageheader/)
  - [Mxtoolbox Analysis](https://mxtoolbox.com/EmailHeaders.aspx)
