@@ -109,7 +109,7 @@ Web Check
 Email Analysis
  - [Header Analysis](https://toolbox.googleapps.com/apps/messageheader/)
  - [Mxtoolbox Analysis](https://mxtoolbox.com/EmailHeaders.aspx)
-    
+ - [Eml|msg Analyzer](https://eml-analyzer.herokuapp.com/#/)    
 IP Reputation and Geoip location
 - [AbuseIPDB](https://www.abuseipdb.com/) 
 - [IpInfo](https://ipinfo.io/)
