@@ -102,6 +102,10 @@ Sandbox
 - [Browser test ](https://www.browserling.com/)
 - [LocaBrowser](https://www.locabrowser.com/)
 - [UrlScan](https://urlscan.io/)
+
+Email Analysis
+ - [Header Analysis](https://toolbox.googleapps.com/apps/messageheader/)
+ - [Mxtoolbox Analysis](https://mxtoolbox.com/EmailHeaders.aspx)
     
 IP Reputation and Geoip location
 - [AbuseIPDB](https://www.abuseipdb.com/) 
