@@ -105,6 +105,7 @@ Sandbox
 
 Web Check
 - [Web Check Domain](https://web-check.xyz/)
+- [Browser Simulation](https://www.wannabrowser.ne)
 
 Email Analysis
  - [Header Analysis](https://toolbox.googleapps.com/apps/messageheader/)
