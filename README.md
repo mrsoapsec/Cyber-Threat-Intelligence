@@ -22,6 +22,7 @@
 - Intetnet Storm Center (SANS) - https://isc.sans.edu/index.html
 - Threat Intelligence - https://start.me/p/wMrA5z/cyber-threat-intelligence
 - Threat Intelligence mrsoap - https://start.me/p/MbxlgR/cyber-threat-intelligence
+- Infostealers by Hudson Rock - https://www.infostealers.com/learn-info-stealers/feed/
 
 ## Threat Hunting
 
@@ -40,6 +41,7 @@
 - Netlas - https://netlas.io/
 - Osint Tools - https://start.me/p/0Pqbdg/osint-500-tools
 - Goosint - https://goosint.com/
+- Hudson Rock Free Cybercrime Intelligence Tools - https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
 
 ## Dark Web
 
