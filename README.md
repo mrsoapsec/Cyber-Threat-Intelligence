@@ -25,6 +25,7 @@
 
 ## Threat Hunting
 
+- Last Attacks - https://app.venarix.com/threat-groups/grid
 - Apt Threat Actors - https://apt.etda.or.th/cgi-bin/aptgroups.cgi
 - Any Run - https://intelligence.any.run/
 - Malpedia - https://malpedia.caad.fkie.fraunhofer.de/
