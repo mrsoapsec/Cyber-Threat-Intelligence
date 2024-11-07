@@ -29,8 +29,10 @@
 - Any Run - https://intelligence.any.run/
 - Malpedia - https://malpedia.caad.fkie.fraunhofer.de/
 - Open Hunting - https://openhunting.io/
+- CVE -> Mitre - https://galeax.github.io/CVE2CAPEC/?layer=enterprise&input=H4sIAAAAAAAACnMOc9U1MjAy0TU2NzC31HEGcw0tdA3NLY1MADK9tqkdAAAA
 - https://www.socinvestigation.com/threat-hunting-playbooks-for-mitre-tactics/
 - https://hackforlab.com/threat-hunting-with-firewall-traffic/
+
 
 ## OSINT
 
