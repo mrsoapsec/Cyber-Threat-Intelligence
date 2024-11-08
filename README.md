@@ -106,6 +106,9 @@ Sandbox
 - [LocaBrowser](https://www.locabrowser.com/)
 - [UrlScan](https://urlscan.io/)
 
+Data Breach
+ - [DataBreach](https://databreach.com/)
+
 Web Check
 - [Web Check Domain](https://web-check.xyz/)
 - [Browser Simulation](https://www.wannabrowser.ne)
@@ -114,7 +117,9 @@ Email Analysis
  - [Header Analysis](https://toolbox.googleapps.com/apps/messageheader/)
  - [Mxtoolbox Analysis](https://mxtoolbox.com/EmailHeaders.aspx)
  - [Eml|msg Analyzer](https://eml-analyzer.herokuapp.com/#/)    
+
 IP Reputation and Geoip location
+
 - [AbuseIPDB](https://www.abuseipdb.com/) 
 - [IpInfo](https://ipinfo.io/)
 - [ThreatCrowd](https://ci-www.threatcrowd.org/)
