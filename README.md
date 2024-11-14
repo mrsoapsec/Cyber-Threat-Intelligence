@@ -53,6 +53,7 @@
 
 ## Ransomware
 
+- Ransomware Live - https://www.ransomware.live/
 - Ransomware Sites - https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md
 - Ransom Watch1 - https://ransomwatch.telemetry.ltd/#/INDEX
 - Ransom Posts - https://privtools.github.io/ransomposts/
