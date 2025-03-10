@@ -1,4 +1,5 @@
 # 🔎 Cyber Threat Intelligence 
+* [IA CyberSecurity](#IA-CyberSecurity)
 * [CTI Platforms](#threat-intel)
 * [Threat Hunting](#threat-hunting)
 * [Osint](#Osint)
@@ -10,6 +11,12 @@
 * [Cyber Map](#cyber-map)
 * [DFIR](#dfir)
 * [Cyber Tools](#Cyber-Tools)
+
+## IA CyberSecurity
+
+teste
+
+
 
 ## CTI Platforms (Feeds) 
 
@@ -55,6 +62,7 @@
 
 ## Ransomware
 
+- Ransomware Intelligence Map - https://www.ransomwarerubrics.com/
 - Ransomware Live - https://www.ransomware.live/
 - Ransomware Sites - https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md
 - Ransom Watch1 - https://ransomwatch.telemetry.ltd/#/INDEX
