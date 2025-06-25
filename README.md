@@ -160,6 +160,7 @@ Cyber Tools
  - Maltego - Hunting
  - Visual Studio Code + Python
  - Network Miner - Extrai artefatos de um arquivo pcap
+ - Spiderfoot - automatiza a coleta de dados públicos (OSINT) sobre um alvo para análise de segurança e footprinting.
 
 
  
