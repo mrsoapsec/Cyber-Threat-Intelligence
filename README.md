@@ -17,7 +17,7 @@
 - https://www.whiterabbitneo.com/
 
 
-## CTI Platforms (Feeds) 
+## 📡 CTI Platforms (Feeds) 
 
 - Kaspersky - https://securelist.com/
 - Palo Alto | Unit42 - https://unit42.paloaltonetworks.com/
