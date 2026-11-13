@@ -93,9 +93,16 @@
 - https://github.com/pan-unit42/
 - https://github.com/LetsDefend/awesome-soc-analyst
 
-## CyberMap
-- https://start.me/p/Nx08Xp/event-maps
+## Monitoring and CyberMaps
+
+- https://livethreatmap.radware.com/
 - https://cybermap.kaspersky.com/pt/stats
+- https://threatmap.logstail.com/
+----
+- https://downdetector.com.br/
+- https://radar.cloudflare.com/
+
+
 
 ## DFIR
 
