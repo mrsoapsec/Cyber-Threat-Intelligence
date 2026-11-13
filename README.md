@@ -101,13 +101,13 @@
 - https://github.com/LetsDefend/awesome-soc-analyst
 
 
-## DFIR
+## 🔬 DFIR
 
 - https://www.jaiminton.com/cheatsheet/DFIR/
 
-## Cyber Tools
+## 🧰 Cyber Tools
 
-Sandbox
+ 🖥️ Sandbox
 
 - [Triage](https://tria.ge/)
 - [AnyRun](https://any.run/)
@@ -120,19 +120,19 @@ Sandbox
 - [LocaBrowser](https://www.locabrowser.com/)
 - [UrlScan](https://urlscan.io/)
 
-Data Breach
+🗄️ Data Breach
  - [DataBreach](https://databreach.com/)
 
-Web Check
+🌐 Web Check
 - [Web Check Domain](https://web-check.xyz/)
 - [Browser Simulation](https://www.wannabrowser.ne)
 
-Email Analysis
+📧 Email Analysis
  - [Header Analysis](https://toolbox.googleapps.com/apps/messageheader/)
  - [Mxtoolbox Analysis](https://mxtoolbox.com/EmailHeaders.aspx)
  - [Eml|msg Analyzer](https://eml-analyzer.herokuapp.com/#/)    
 
-IP Reputation and Geoip location
+🌍 IP Reputation and Geoip location
 
 - [AbuseIPDB](https://www.abuseipdb.com/) 
 - [IpInfo](https://ipinfo.io/)
@@ -144,20 +144,20 @@ IP Reputation and Geoip location
 - [Shodan](https://www.shodan.io)
 
 
-Hash Search
+#️⃣ Hash Search
 - [Virus Total](https://www.virustotal.com/)
 - [Valkyrie](https://valkyrie.comodo.com/)
 - [Malwares hash search](https://www.malwares.com)
 
 
-Network Tools
+🔌 Network Tools
 - [DIGWeb](https://www.digwebinterface.com/)
 - [ViewDns](https://viewdns.info/)
 - [DnsDumpster](https://dnsdumpster.com/)
 - [Pcap Analysis](https://apackets.com)
 
 
-Cyber Tools
+🧰 Cyber Tools
  - PilotEdit - Leitura de grandes arquivos para Threat Hunting
  - LightShot | Flameshot - Software de printscreen para evidências
  - Draw.io - Desenho de Topologias / Arquitetura
