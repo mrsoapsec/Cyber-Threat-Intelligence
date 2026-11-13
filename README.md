@@ -43,12 +43,12 @@
 
 ## Monitoring and CyberMaps
 
-- https://livethreatmap.radware.com/
-- https://cybermap.kaspersky.com/pt/stats
-- https://threatmap.logstail.com/
+- Radarware -  https://livethreatmap.radware.com/
+- Karpersky Cybermap - https://cybermap.kaspersky.com/pt/stats
+- Logstail - https://threatmap.logstail.com/
 ----
-- https://downdetector.com.br/
-- https://radar.cloudflare.com/
+- Downdeterctor - https://downdetector.com.br/
+- CloudFlare Radar -  https://radar.cloudflare.com/
 
 
 ## OSINT
