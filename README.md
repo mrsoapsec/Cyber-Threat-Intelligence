@@ -86,7 +86,7 @@
 - https://bazaar.abuse.ch/browse/
   
 
-## VPS
+## 🔐 VPS
 
 - https://shell.cloud.google.com
 
