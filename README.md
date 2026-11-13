@@ -62,7 +62,7 @@
 
 ## 🌑 Dark Web
 
-- General Search - http://ahmia.fi/ 🚨
+- General Search - http://ahmia.fi/ ⭐
 - Hidden Wiki - http://paavlaytlfsqyvkg3yqj7hflfg5jw2jdg2fgkza5ruf6lplwseeqtvyd.onion/wiki/index.php?title=Main_Page
 - (Git) - https://github.com/apurvsinghgautam/dark-web-osint-tools
 - (Git) - https://github.com/fastfire/deepdarkcti
