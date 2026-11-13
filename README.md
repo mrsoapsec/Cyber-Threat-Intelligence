@@ -2,13 +2,13 @@
 * [IA CyberSecurity](#IA-CyberSecurity)
 * [CTI Platforms](#threat-intel)
 * [Threat Hunting](#threat-hunting)
+* [Cyber Map](#cyber-map) 
 * [Osint](#Osint)
 * [Dark Web](#dark-web)
 * [Ransomware](#ransomware)
 * [Malware Samples](#malware-samples)
 * [VPS](#vps)
 * [Git Repository](#git-repository)
-* [Cyber Map](#cyber-map)
 * [DFIR](#dfir)
 * [Cyber Tools](#Cyber-Tools)
 
@@ -40,6 +40,15 @@
 - CVE -> Mitre - https://galeax.github.io/CVE2CAPEC/
 - https://www.socinvestigation.com/threat-hunting-playbooks-for-mitre-tactics/
 - https://hackforlab.com/threat-hunting-with-firewall-traffic/
+
+## Monitoring and CyberMaps
+
+- https://livethreatmap.radware.com/
+- https://cybermap.kaspersky.com/pt/stats
+- https://threatmap.logstail.com/
+----
+- https://downdetector.com.br/
+- https://radar.cloudflare.com/
 
 
 ## OSINT
@@ -92,16 +101,6 @@
 - https://github.com/PaloAltoNetworks
 - https://github.com/pan-unit42/
 - https://github.com/LetsDefend/awesome-soc-analyst
-
-## Monitoring and CyberMaps
-
-- https://livethreatmap.radware.com/
-- https://cybermap.kaspersky.com/pt/stats
-- https://threatmap.logstail.com/
-----
-- https://downdetector.com.br/
-- https://radar.cloudflare.com/
-
 
 
 ## DFIR
