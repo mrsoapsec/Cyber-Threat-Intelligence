@@ -29,7 +29,7 @@
 - Threat Intelligence - https://start.me/p/wMrA5z/cyber-threat-intelligence
 - Threat Intelligence mrsoap - https://start.me/p/MbxlgR/cyber-threat-intelligence
 
-## Threat Hunting
+## 🎯 Threat Hunting
 
 - Last Attacks - https://app.venarix.com/threat-groups/grid
 - Threats Reports https://thedfirreport.com/
@@ -41,7 +41,7 @@
 - https://www.socinvestigation.com/threat-hunting-playbooks-for-mitre-tactics/
 - https://hackforlab.com/threat-hunting-with-firewall-traffic/
 
-## Monitoring and CyberMaps
+## 🗺️ Monitoring and CyberMaps
 
 - Radarware -  https://livethreatmap.radware.com/
 - Karpersky Cybermap - https://cybermap.kaspersky.com/pt/stats
@@ -51,7 +51,7 @@
 - CloudFlare Radar -  https://radar.cloudflare.com/
 
 
-## OSINT
+## 🕵️ OSINT
 
 - OSINT Framework - https://osintframework.com/
 - Favicons - https://github.com/yoryio/ShodanFavicon
