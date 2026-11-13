@@ -60,7 +60,7 @@
 - Osint Tools - https://start.me/p/0Pqbdg/osint-500-tools
 - Goosint - https://goosint.com/
 
-## Dark Web
+## 🌑 Dark Web
 
 - General Search - http://ahmia.fi/ 🚨
 - Hidden Wiki - http://paavlaytlfsqyvkg3yqj7hflfg5jw2jdg2fgkza5ruf6lplwseeqtvyd.onion/wiki/index.php?title=Main_Page
@@ -68,7 +68,7 @@
 - (Git) - https://github.com/fastfire/deepdarkcti
 - Search On Dark - https://iaca-darkweb-tools.com/search-darkweb
 
-## Ransomware
+## ☠️ Ransomware
 
 - Ransomware Live - https://www.ransomware.live/
 - Ransomware Sites - https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md
@@ -78,7 +78,7 @@
 - RansomFeed - https://www.ransomfeed.it/
 - Ransom Groups - https://github.com/StrangerealIntel/Shadow-Pulse/blob/main/Ransomlist.csv
 
-## Malware Samples 
+## 🦠 Malware Samples 
 
 - https://github.com/crocodyli/malware-colection
 - https://vx-underground.org/
