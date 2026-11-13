@@ -47,7 +47,7 @@
 - Karpersky Cybermap - https://cybermap.kaspersky.com/pt/stats
 - Logstail - https://threatmap.logstail.com/
 ----
-- Downdeterctor - https://downdetector.com.br/
+- Downdetector - https://downdetector.com.br/
 - CloudFlare Radar -  https://radar.cloudflare.com/
 
 
