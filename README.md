@@ -2,7 +2,7 @@
 * [IA CyberSecurity](#IA-CyberSecurity)
 * [CTI Platforms](#threat-intel)
 * [Threat Hunting](#threat-hunting)
-* [Cyber Map](#cyber-map) 
+* [ Monitoring and CyberMaps](#cyber-map) 
 * [Osint](#Osint)
 * [Dark Web](#dark-web)
 * [Ransomware](#ransomware)
